@@ -14,13 +14,13 @@ This project used Principal Component Analysis (PCA), K-Means clustering, and Ne
 
 ## About The Project
 
-# Data
+### Data
 
 For this project, I worked with image data provided in two folders. The first folder, data/survivor, contains 839 images (each 70x70 pixels) of castaways from the first 46 seasons of Survivor. The filenames follow a format like S##_first_last.png, where ## is the season number. There are some variations due to middle names or multiple last names, and the host, Jeff Probst, is included as S00_Jeff_Probst.png. This Survivor dataset is primarily used for "training."
 
 The second folder, data/professors, includes 5 images (also 70x70 pixels) of the full-time Computer Science faculty at Florida Southern College, following the format first_last.png. These images are used for "testing."
 
-# Steps
+### Steps
 
 This project aims to explore the Survivor castaway dataset using machine learning techniques to answer several unique questions:
 
